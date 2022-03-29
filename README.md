@@ -12,7 +12,7 @@
 <div align='center'>
   
   <img src="https://user-images.githubusercontent.com/94708849/160274563-01dc1fbf-f38e-4396-b0f3-2c4f4204c21b.png" width="100" height="100" align="right">
-   <br/> <div align="right"> Jean, Abou Moussa <br/> INSA Lyon Student <br/> https://www.linkedin.com/in/jean-abou-moussa</div>
+   <br/> <div align="right"> Jean, Abou Moussa <br/> INSA Lyon Student <br/> <a href = "https://www.linkedin.com/in/jean-abou-moussa"> Linkedin </a></div>
  </div>
 
 
