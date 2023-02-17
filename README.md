@@ -2,7 +2,7 @@
 <h1> Hi there, I'm Jean 👋 </h1> 
 
 - 🔭 I’m currently working on the new design of the "JadCoaching" company website (not yet available).
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently very active on Leetcode.
 - 🤔 I’m looking for help with back-end application development.
 - 💬 Ask me about Python or Algorithmic.
 - 🏀 I'm passionate about basketball and team sports in general.
