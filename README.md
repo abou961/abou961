@@ -2,9 +2,9 @@
 <h1> Hi there, I'm Jean 👋 </h1> 
 
 - 🔭 I’m currently working on the new design of the "JadCoaching" company website (not yet available).
-- 🌱 I’m currently learning C#, JavaScript.
+- 🌱 I’m currently learning JavaScript.
 - 🤔 I’m looking for help with back-end application development.
-- 💬 Ask me about C++, Java or Algorithmic.
+- 💬 Ask me about Python or Algorithmic.
 - 🏀 I'm passionate about basketball and team sports in general.
 - 📫 How to reach me: jean.abou-moussa@insa-lyon.fr
 
