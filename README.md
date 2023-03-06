@@ -1,7 +1,7 @@
 
 <h1> Hi there, I'm Jean 👋 </h1> 
 
-- 🔭 I’m currently very active on Leetcode.
+- 🔭 I’m currently very active on <a href = "https://leetcode.com/jean_am/">Leetcode</a>.
 - 🤔 I’m looking for help with back-end application development.
 - 💬 Ask me about Python or Algorithmic.
 - 🏀 I'm passionate about basketball and team sports in general.
